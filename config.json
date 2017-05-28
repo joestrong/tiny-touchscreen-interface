@@ -1,0 +1,8 @@
+{
+  "buttons": [
+    {
+      "label": "Speak",
+      "command": "speaker-test -t wav"
+    }
+  ]
+}
